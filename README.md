@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width=40% src="https://github.com/c1ph3rxxX/c1ph3rxxX/blob/master/logorr.png">
+  <img width=100% src="https://github.com/c1ph3rxxX/c1ph3rxxX/blob/master/logorbg2.png">
 </p>
 
 <p align="center">
