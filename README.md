@@ -8,7 +8,9 @@
 </p>
 
 <h1 align="center">
- Ethical Hacker | Penetration Tester | Bug Hunter
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+Script&weight=700&size=32&pause=900&color=F7F7F7E9&background=FFFFFF00&center=true&random=true&width=435&lines=Ethical+Hacker+;Penetration+Tester+;Bug+Hunter)](https://git.io/typing-svg)
+ 
  <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 </h1>
 
