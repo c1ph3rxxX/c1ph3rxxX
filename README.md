@@ -19,7 +19,7 @@
 #### I also love the logic and structure of coding and always strive to write elegant and efficient code.
 
 - 🌱 **Learning:** Advanced penetration testing techniques.
-- 📫 **Reach Me At:** [Discord - c1ph3r_x](https://discordapp.com/users/722488994990129282)
+- 📫 **Reach Me At:** 127.0.0.1
 - ⚡ **Fun Fact:**  Hacking - where creativity meets code, curiosity meets systems, and innovation meets exploration. 
 
 ### TryHackMe Badge 🔥
